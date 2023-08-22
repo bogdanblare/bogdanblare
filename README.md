@@ -42,7 +42,7 @@
 </p>
 </p>
 
-## 🎖️: chart_with_upwards_trend: GitHub Stats
+## 🎖️ : GitHub Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bogdanblare&theme=highcontrast" alt="bogdanblare" /></p>
 
