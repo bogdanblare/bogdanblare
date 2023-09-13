@@ -40,6 +40,7 @@
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/4737e2b8fd6e9447611ec7a4b161e865da983910/img/nextjs-colored.svg" width="70" height="70" alt="NextJs" /></a>
 <a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/1e611276bf34b398fb477a7ca00096cc1ac87129/img/pnpm.svg" width="70" height="70" alt="PNPM" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/1e611276bf34b398fb477a7ca00096cc1ac87129/img/npm.svg" width="70" height="70" alt="NPM" /></a>
+<a href="https://bun.sh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/935f23854df91e8eeb8e265c4148f6b2a9a00887/img/bun.svg" width="70" height="70" alt="BUN" /></a>
 </p>
 </p>
 
