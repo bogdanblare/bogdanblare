@@ -2,16 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdanblare&label=Profile%20Views%20%F0%9F%9A%80&color=535353&style=flat" alt="bogdanblare" /> </p>
 
-## 💻: Hi, I’m @bogdanblare
+# 💻: Hi, I’m @bogdanblare
 
-## ⭐: I'm a Junior Software Engineer
+# ⭐: I'm a Junior Software Engineer
 
 - 👀 I’m interested in coding, volleyball, games and learning new things
 - 🌱 I’m finished [The Odin Project](https://www.theodinproject.com/) and working on own IT startup
 - 📫 You can reach up to me at hoots05dues@icloud.com or on [Linkedin](https://www.linkedin.com/in/bogdan-kulshenko-a55a22256/)
 - 😎 You should definitely check out my portfolio [here](https://www.blarebogdan.com/)
 
-## 📱: Socials
+# 📱: Socials
 
 <p align="left"> 
 <a href="https://www.github.com/bogdanblare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/4737e2b8fd6e9447611ec7a4b161e865da983910/img/github.svg" width="70" height="70" /></a>
@@ -19,7 +19,7 @@
 <a href="https://www.twitter.com/blarebogdan" target="_blank" rel="noreferrer"><img src="https://github.com/bogdanblare/controllerhero/blob/main/img/icon-x.png" width="70" height="70" /></a>
 </p>
 
-## 🎯: Skills
+# 🎯: Skills
 
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/d6f4b2b4d472251f2691f73f362a257a064aa3b6/img/vscode.svg" width="70" height="70" alt="Visual Studio Code" /></a>
