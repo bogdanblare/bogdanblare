@@ -32,6 +32,7 @@
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/4737e2b8fd6e9447611ec7a4b161e865da983910/img/webpack-colored.svg" width="70" height="70" alt="Webpack" /></a>
   <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/d6f4b2b4d472251f2691f73f362a257a064aa3b6/img/eslint.svg" width="70" height="70" alt="ESlint" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/d6f4b2b4d472251f2691f73f362a257a064aa3b6/img/tailwind.svg" width="70" height="70" alt="tailwindcss" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/5df3cdf29aac6a5ef34e60ae6d7afd998e24d0ac/img/Bootstrap.svg" width="70" height="70" alt="bootstrap" /></a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/81d3b87b946e8d0b3223df78dd5e8c06ec8965aa/img/prisma.svg" width="70" height="70" alt="Prisma" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/f303911acb114d4a3cdadb6959d183f413efa813/img/graphQL_Logo.svg" width="70" height="70" alt="Graphql" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/4737e2b8fd6e9447611ec7a4b161e865da983910/img/mongodb-colored.svg" width="70" height="70" alt="MongoDB" /></a>
@@ -42,6 +43,14 @@
 <a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/1e611276bf34b398fb477a7ca00096cc1ac87129/img/pnpm.svg" width="70" height="70" alt="PNPM" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/1e611276bf34b398fb477a7ca00096cc1ac87129/img/npm.svg" width="70" height="70" alt="NPM" /></a>
 <a href="https://bun.sh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/935f23854df91e8eeb8e265c4148f6b2a9a00887/img/bun.svg" width="70" height="70" alt="BUN" /></a>
+  <a href="https://nginx.org/en/docs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/5df3cdf29aac6a5ef34e60ae6d7afd998e24d0ac/img/Nginx.svg" width="70" height="70" alt="nginx" />
+<a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/5df3cdf29aac6a5ef34e60ae6d7afd998e24d0ac/img/Bash-Dark.svg" width="70" height="70" alt="BASH" /></a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/5df3cdf29aac6a5ef34e60ae6d7afd998e24d0ac/img/Cloudflare-Dark.svg" width="70" height="70" alt="Cloudflare" /></a>
+<a href="https://www.php.net/docs.php" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/5df3cdf29aac6a5ef34e60ae6d7afd998e24d0ac/img/PHP-Dark.svg" width="70" height="70" alt="PHP" />
+<a href="https://redis.io/docs/install/install-stack/docker/" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/5df3cdf29aac6a5ef34e60ae6d7afd998e24d0ac/img/Redis-Dark.svg" width="70" height="70" alt="Redis" />
+<a href="https://vercel.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/5df3cdf29aac6a5ef34e60ae6d7afd998e24d0ac/img/Vercel-Dark.svg" width="70" height="70" alt="Redis" />
+<a href="https://www.vultr.com/" rel="noreferrer"><img src="https://github.com/bogdanblare/controllerhero/blob/main/img/vultr.png" width="70" height="70" alt="vultr" />
+<a href="https://www.digitalocean.com/" rel="noreferrer"><img src="https://github.com/bogdanblare/controllerhero/blob/main/img/DigitalOcean.png" width="70" height="70" alt="digitalocean" />
 </p>
 </p>
 
