@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdanblare&label=Profile%20Views%20%F0%9F%9A%80&color=535353&style=flat" alt="bogdanblare" /> </p>
 
 # 💻: Hi, I’m @bogdanblare
-![Codewars](https://www.codewars.com/users/bogdanblare/badges/large)
-<a href="https://www.github.com/bogdanblare](https://www.codewars.com" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/bogdanblare/badges/large" /></a>
+<a href="https://www.codewars.com" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/bogdanblare/badges/large" /></a>
 # 📱: Socials
 
 <p align="left"> 
