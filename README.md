@@ -4,7 +4,7 @@
 
 # 💻: Hi, I’m @bogdanblare
 ![Codewars](https://www.codewars.com/users/bogdanblare/badges/large)
-
+<a href="https://www.github.com/bogdanblare](https://www.codewars.com" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/bogdanblare/badges/large" /></a>
 # 📱: Socials
 
 <p align="left"> 
