@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: bold; font-size: 38px;">
-  Building ideas into reality.
+ “Projects? Private. Skills? Public.”
 </h1>
 
 <p align="center" style="font-size: 18px; color: gray;">
